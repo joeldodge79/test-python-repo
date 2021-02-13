@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.4](https://www.github.com/joeldodge79/test-python-repo/compare/v0.1.3...v0.1.4) (2021-02-13)
+
+
+### Bug Fixes
+
+* readme ([#10](https://www.github.com/joeldodge79/test-python-repo/issues/10)) ([f2fef64](https://www.github.com/joeldodge79/test-python-repo/commit/f2fef646306ec0059b652a04759ebf1eb73bce1d))
+
 ### [0.1.3](https://www.github.com/joeldodge79/test-python-repo/compare/v0.1.2...v0.1.3) (2021-02-12)
 
 
